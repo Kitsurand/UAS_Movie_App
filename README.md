@@ -1,6 +1,6 @@
 # Movie Booking App
 
-A District-style movie ticket booking app built with Flutter. Browse movies currently showing in Bengaluru, pick a showtime, select seats on an interactive seat map, and complete a mock checkout through to a booking confirmation.
+A movie ticket booking app built with Flutter. Browse movies currently showing in Bengaluru, pick a showtime, select seats on an interactive seat map, and complete a mock checkout through to a booking confirmation.
 
 **Live demo:** https://samgabriel-here.github.io/movie-booking-app/
 
@@ -10,7 +10,7 @@ A District-style movie ticket booking app built with Flutter. Browse movies curr
 - View showtimes grouped by cinema
 - Interactive seat selection with a live running total
 - Checkout summary and booking confirmation with a generated booking ID
-- Light, card-based UI styled after [District](https://www.district.in/movies/)
+- Light, card-based UI
 
 ## Tech stack
 
